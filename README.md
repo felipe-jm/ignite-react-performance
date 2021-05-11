@@ -1,7 +1,7 @@
 <h1 align="center">
     <img width="120" alt="Ignite" src="https://res.cloudinary.com/dqcqifjms/image/upload/v1615216700/felipejung/ignite.png" />
     <br>
-    Ignite - React - Auth
+    Ignite - React - Performance
 </h1>
 
 <h4 align="center">
